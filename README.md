@@ -34,7 +34,7 @@
 
 ## 🚀 Projects
 - [Full-Stack MERN Blog](https://github.com/piyush-ghanghav/Full-Stack-MERN-Blog): A blog project application using Node.js, Express, React, and MongoDB.
-- [30-Day JavaScript Challenge](https://github.com/piyush-ghanghav/30-day-js-challenge): A series of JavaScript tasks and exercises to enhance the skills.
+- [JavaScript Skills Sprint](https://github.com/piyush-ghanghav/30-day-js-challenge): A series of JavaScript tasks and exercises to enhance the skills.
 
 ## 📈 GitHub Stats
 <p align="center">
