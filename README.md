@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Piyush</h1>
-<h3 align="center">A Passionate Computer Engineer</h3>
+<h3 align="center">Computer Engineer</h3>
 
 <p align="center">
   <a href="https://github.com/piyush-ghanghav" target="_blank"><img src="https://img.shields.io/github/followers/piyush-ghanghav?label=Follow&style=social" alt="GitHub Badge"></a>
