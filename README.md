@@ -35,17 +35,27 @@
 ## 🚀 Projects
 - [Full-Stack MERN Blog](https://github.com/piyush-ghanghav/Full-Stack-MERN-Blog): A blog project application using Node.js, Express, React, and MongoDB.
 - [JavaScript Skills Sprint](https://github.com/piyush-ghanghav/30-day-js-challenge): A series of JavaScript tasks and exercises to enhance the skills.
-
+<!--
 ## 📈 GitHub Stats
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=piyush-ghanghav&show_icons=true&theme=radical" alt="GitHub Stats"/>
+  <br>
+  This displays my overall GitHub statistics including total commits, contributions, and more.
 </p>
+
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=piyush-ghanghav&theme=radical" alt="GitHub Streak"/>
+  <br>
+  This shows my current GitHub streak, indicating how many consecutive days I've contributed to GitHub.
 </p>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=piyush-ghanghav&layout=compact&theme=radical" alt="Top Languages"/>
+  <br>
+  This highlights the programming languages I've used most frequently in my repositories.
 </p>
+-->
 
 ## 🤝 Connect with Me
 <h3 align="left">Connect with me:</h3>
