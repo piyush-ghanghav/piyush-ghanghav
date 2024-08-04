@@ -11,7 +11,6 @@
 </p>
 
 ## 🙋‍♂️ About Me
-- 🌱 I’m currently learning **React**
 - 👨‍💻 All of my projects are available at [My GitHub Repositories](https://github.com/piyush-ghanghav?tab=repositories)
 - 📫 How to reach me **piyushghanghav@gmail.com**
 
