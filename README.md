@@ -31,10 +31,10 @@
   <a href="https://dart.dev" target="_blank"><img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="Dart" width="40" height="40"/></a>
 </p>
 
+<!--
 ## 🚀 Projects
 - [Full-Stack MERN Blog](https://github.com/piyush-ghanghav/Full-Stack-MERN-Blog): A blog project application using Node.js, Express, React, and MongoDB.
 - [JavaScript Skills Sprint](https://github.com/piyush-ghanghav/30-day-js-challenge): A series of JavaScript tasks and exercises to enhance the skills.
-<!--
 ## 📈 GitHub Stats
 
 <p align="center">
