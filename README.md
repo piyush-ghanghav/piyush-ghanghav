@@ -15,8 +15,24 @@
 - 📫 How to reach me **piyushghanghav@gmail.com**
 
 
+
 ## 🛠️ Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=cpp,c,python,java,html,css,js,react,nodejs,mysql,docker,git,vscode,linux)](https://skillicons.dev)
+<p align="left">
+  <a href="https://skillicons.dev" title="C++"><img src="https://skillicons.dev/icons?i=cpp" alt="C++" /></a>
+  <a href="https://skillicons.dev" title="C"><img src="https://skillicons.dev/icons?i=c" alt="C" /></a>
+  <a href="https://skillicons.dev" title="Python"><img src="https://skillicons.dev/icons?i=python" alt="Python" /></a>
+  <a href="https://skillicons.dev" title="Java"><img src="https://skillicons.dev/icons?i=java" alt="Java" /></a>
+  <a href="https://skillicons.dev" title="HTML"><img src="https://skillicons.dev/icons?i=html" alt="HTML" /></a>
+  <a href="https://skillicons.dev" title="CSS"><img src="https://skillicons.dev/icons?i=css" alt="CSS" /></a>
+  <a href="https://skillicons.dev" title="JavaScript"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript" /></a>
+  <a href="https://skillicons.dev" title="React"><img src="https://skillicons.dev/icons?i=react" alt="React" /></a>
+  <a href="https://skillicons.dev" title="Node.js"><img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" /></a>
+  <a href="https://skillicons.dev" title="MySQL"><img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" /></a>
+  <a href="https://skillicons.dev" title="Docker"><img src="https://skillicons.dev/icons?i=docker" alt="Docker" /></a>
+  <a href="https://skillicons.dev" title="Git"><img src="https://skillicons.dev/icons?i=git" alt="Git" /></a>
+  <a href="https://skillicons.dev" title="VS Code"><img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" /></a>
+  <a href="https://skillicons.dev" title="Linux"><img src="https://skillicons.dev/icons?i=linux" alt="Linux" /></a>
+</p>
 
 
 ## 🧩 LeetCode
