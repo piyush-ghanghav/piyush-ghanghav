@@ -18,21 +18,27 @@
 
 ## 🛠️ Languages and Tools:
 <p align="left">
-    <img src="https://skillicons.dev/icons?i=cpp" alt="C++" />
-    <img src="https://skillicons.dev/icons?i=c" alt="C" />
-    <img src="https://skillicons.dev/icons?i=python" alt="Python" />
-    <img src="https://skillicons.dev/icons?i=java" alt="Java" />
-    <img src="https://skillicons.dev/icons?i=html" alt="HTML" />
-    <img src="https://skillicons.dev/icons?i=css" alt="CSS" />
-    <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" />
-    <img src="https://skillicons.dev/icons?i=react" alt="React" />
-    <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" />
-    <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" />
-    <img src="https://skillicons.dev/icons?i=docker" alt="Docker" />
-    <img src="https://skillicons.dev/icons?i=git" alt="Git" />
-    <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" />
-    <img src="https://skillicons.dev/icons?i=linux" alt="Linux" />
+  <img src="https://skillicons.dev/icons?i=cpp" alt="C++" />
+  <img src="https://skillicons.dev/icons?i=c" alt="C" />
+  <img src="https://skillicons.dev/icons?i=python" alt="Python" />
+  <img src="https://skillicons.dev/icons?i=java" alt="Java" />
+  <img src="https://skillicons.dev/icons?i=html" alt="HTML" />
+  <img src="https://skillicons.dev/icons?i=css" alt="CSS" />
+  <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" />
 </p>
+<p align = "left">
+  <img src="https://skillicons.dev/icons?i=react" alt="React" />
+  <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" />
+  <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" />
+  <img src="https://skillicons.dev/icons?i=git" alt="Git" />
+  <img src="https://skillicons.dev/icons?i=docker" alt="Docker" />
+  <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" />
+  <img src="https://skillicons.dev/icons?i=idea" alt="IntellijIdea" />
+  <img src="https://skillicons.dev/icons?i=eclipse" alt="Eclipse" />
+  <img src="https://skillicons.dev/icons?i=linux" alt="Linux" />
+  <img src="https://skillicons.dev/icons?i=ubuntu" alt="Ubuntu" />
+</p>
+
 
 
 
