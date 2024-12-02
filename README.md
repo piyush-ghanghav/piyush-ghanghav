@@ -17,19 +17,30 @@
 
 
 ## 🛠️ Languages and Tools:
+
+
 <p align="left">
   <img src="https://skillicons.dev/icons?i=cpp" alt="C++" />
   <img src="https://skillicons.dev/icons?i=c" alt="C" />
   <img src="https://skillicons.dev/icons?i=python" alt="Python" />
   <img src="https://skillicons.dev/icons?i=java" alt="Java" />
+ </p>
+<p align = "left">
   <img src="https://skillicons.dev/icons?i=html" alt="HTML" />
   <img src="https://skillicons.dev/icons?i=css" alt="CSS" />
+  <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" />
   <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" />
+  
+  <img src="https://skillicons.dev/icons?i=react" alt="React" />
+  <img src="https://skillicons.dev/icons?i=nextjs" alt="NextJs" />
+  <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" />
+  <img src="https://skillicons.dev/icons?i=spring" alt="spring" />
+  <img src="https://skillicons.dev/icons?i=npm" alt="npm" />
+  <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" />
+  <img src="https://skillicons.dev/icons?i=postgres" alt="Postgres" />
+  
 </p>
 <p align = "left">
-  <img src="https://skillicons.dev/icons?i=react" alt="React" />
-  <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" />
-  <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" />
   <img src="https://skillicons.dev/icons?i=git" alt="Git" />
   <img src="https://skillicons.dev/icons?i=docker" alt="Docker" />
   <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" />
