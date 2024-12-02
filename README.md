@@ -20,34 +20,32 @@
 
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp" alt="C++" />
-  <img src="https://skillicons.dev/icons?i=c" alt="C" />
-  <img src="https://skillicons.dev/icons?i=python" alt="Python" />
-  <img src="https://skillicons.dev/icons?i=java" alt="Java" />
- </p>
-<p align = "left">
-  <img src="https://skillicons.dev/icons?i=html" alt="HTML" />
-  <img src="https://skillicons.dev/icons?i=css" alt="CSS" />
-  <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" />
-  <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" />
-  
-  <img src="https://skillicons.dev/icons?i=react" alt="React" />
-  <img src="https://skillicons.dev/icons?i=nextjs" alt="NextJs" />
-  <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" />
-  <img src="https://skillicons.dev/icons?i=spring" alt="spring" />
-  <img src="https://skillicons.dev/icons?i=npm" alt="npm" />
-  <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" />
-  <img src="https://skillicons.dev/icons?i=postgres" alt="Postgres" />
-  
+  <a href="https://github.com/piyush-ghanghav?tab=repositories"><img src="https://skillicons.dev/icons?i=cpp" alt="C++" /></a>
+  <a href="https://github.com/piyush-ghanghav?tab=repositories"><img src="https://skillicons.dev/icons?i=c" alt="C" /></a>
+  <a href="https://github.com/piyush-ghanghav?tab=repositories"><img src="https://skillicons.dev/icons?i=python" alt="Python" /></a>
+  <a href="https://github.com/piyush-ghanghav?tab=repositories"><img src="https://skillicons.dev/icons?i=java" alt="Java" /></a>
 </p>
-<p align = "left">
-  <img src="https://skillicons.dev/icons?i=git" alt="Git" />
-  <img src="https://skillicons.dev/icons?i=docker" alt="Docker" />
-  <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" />
-  <img src="https://skillicons.dev/icons?i=idea" alt="IntellijIdea" />
-  <img src="https://skillicons.dev/icons?i=eclipse" alt="Eclipse" />
-  <img src="https://skillicons.dev/icons?i=linux" alt="Linux" />
-  <img src="https://skillicons.dev/icons?i=ubuntu" alt="Ubuntu" />
+<p align="left">
+  <a href="https://github.com/piyush-ghanghav?tab=repositories"><img src="https://skillicons.dev/icons?i=html" alt="HTML" /></a>
+  <a href="https://github.com/piyush-ghanghav?tab=repositories"><img src="https://skillicons.dev/icons?i=css" alt="CSS" /></a>
+  <a href="https://github.com/piyush-ghanghav?tab=repositories"><img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" /></a>
+  <a href="https://github.com/piyush-ghanghav?tab=repositories"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript" /></a>
+  <a href="https://github.com/piyush-ghanghav?tab=repositories"><img src="https://skillicons.dev/icons?i=react" alt="React" /></a>
+  <a href="https://github.com/piyush-ghanghav?tab=repositories"><img src="https://skillicons.dev/icons?i=nextjs" alt="NextJs" /></a>
+  <a href="https://github.com/piyush-ghanghav?tab=repositories"><img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" /></a>
+  <a href="https://github.com/piyush-ghanghav?tab=repositories"><img src="https://skillicons.dev/icons?i=npm" alt="npm" /></a>
+  <a href="https://github.com/piyush-ghanghav?tab=repositories"><img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" /></a>
+  <a href="https://github.com/piyush-ghanghav?tab=repositories"><img src="https://skillicons.dev/icons?i=postgres" alt="Postgres" /></a>
+  <a href="https://github.com/piyush-ghanghav?tab=repositories"><img src="https://skillicons.dev/icons?i=spring" alt="spring" /></a>
+</p>
+<p align="left">
+  <a href="https://github.com/piyush-ghanghav?tab=repositories"><img src="https://skillicons.dev/icons?i=git" alt="Git" /></a>
+  <a href="https://github.com/piyush-ghanghav?tab=repositories"><img src="https://skillicons.dev/icons?i=docker" alt="Docker" /></a>
+  <a href="https://github.com/piyush-ghanghav?tab=repositories"><img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" /></a>
+  <a href="https://github.com/piyush-ghanghav?tab=repositories"><img src="https://skillicons.dev/icons?i=idea" alt="IntellijIdea" /></a>
+  <a href="https://github.com/piyush-ghanghav?tab=repositories"><img src="https://skillicons.dev/icons?i=eclipse" alt="Eclipse" /></a>
+  <a href="https://github.com/piyush-ghanghav?tab=repositories"><img src="https://skillicons.dev/icons?i=linux" alt="Linux" /></a>
+  <a href="https://github.com/piyush-ghanghav?tab=repositories"><img src="https://skillicons.dev/icons?i=ubuntu" alt="Ubuntu" /></a>
 </p>
 
 
