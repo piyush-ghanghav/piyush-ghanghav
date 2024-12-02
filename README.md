@@ -22,14 +22,14 @@
 <p align="left">
   <a href="https://github.com/piyush-ghanghav?tab=repositories&q=&type=&language=c%2B%2B&sort="><img src="https://skillicons.dev/icons?i=cpp" alt="C++" /></a>
   <a href="https://github.com/piyush-ghanghav?tab=repositories"><img src="https://skillicons.dev/icons?i=c" alt="C" /></a>
-  <a href="https://github.com/piyush-ghanghav?tab=repositories"><img src="https://skillicons.dev/icons?i=python" alt="Python" /></a>
+  <a href="https://github.com/piyush-ghanghav?tab=repositories&q=&type=&language=python&sort="><img src="https://skillicons.dev/icons?i=python" alt="Python" /></a>
   <a href="https://github.com/piyush-ghanghav?tab=repositories"><img src="https://skillicons.dev/icons?i=java" alt="Java" /></a>
 </p>
 <p align="left">
   <a href="https://github.com/piyush-ghanghav?tab=repositories"><img src="https://skillicons.dev/icons?i=html" alt="HTML" /></a>
-  <a href="https://github.com/piyush-ghanghav?tab=repositories"><img src="https://skillicons.dev/icons?i=css" alt="CSS" /></a>
+  <a href="https://github.com/piyush-ghanghav?tab=repositories&q=&type=&language=css&sort="><img src="https://skillicons.dev/icons?i=css" alt="CSS" /></a>
   <a href="https://github.com/piyush-ghanghav?tab=repositories"><img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" /></a>
-  <a href="https://github.com/piyush-ghanghav?tab=repositories"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript" /></a>
+  <a href="https://github.com/piyush-ghanghav?tab=repositories&q=&type=&language=javascript&sort="><img src="https://skillicons.dev/icons?i=js" alt="JavaScript" /></a>
   <a href="https://github.com/piyush-ghanghav?tab=repositories"><img src="https://skillicons.dev/icons?i=react" alt="React" /></a>
   <a href="https://github.com/piyush-ghanghav?tab=repositories"><img src="https://skillicons.dev/icons?i=nextjs" alt="NextJs" /></a>
   <a href="https://github.com/piyush-ghanghav?tab=repositories"><img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" /></a>
