@@ -84,7 +84,7 @@
 
 <p align="left">
   <a href="https://linkedin.com/in/piyush-ghanghav"><img src="https://skillicons.dev/icons?i=linkedin" alt="Linkedin" /></a>
-  <a href="https://instagram.com/in/piyush-ghanghav"><img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" /></a>
+  <a href="https://instagram.com/in/piyush.10_"><img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" /></a>
   <a href="https://twitter.com/piyushghanghav1"><img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" /></a>
 </p>
 
