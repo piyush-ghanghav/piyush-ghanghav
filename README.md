@@ -18,8 +18,10 @@
 
 ## 🌟 About Me
 - 👨‍💻 All of my projects are available at [My GitHub Repositories](https://github.com/piyush-ghanghav?tab=repositories)
-- 📫 How to reach me **piyushghanghav@gmail.com**
-
+- 📫 Drop me a mail:  
+  <a href="mailto:piyushghanghav@gmail.com" target="_blank">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge">
+  </a>
 
 
 ## 🛠️ Languages and Tools:
@@ -89,8 +91,11 @@
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
-  <a href="https://linkedin.com/in/piyush-ghanghav"><img src="https://skillicons.dev/icons?i=linkedin" alt="Linkedin" /></a>
-  <a href="https://instagram.com/piyush.10_"><img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" /></a>
-  <a href="https://twitter.com/piyushghanghav1"><img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" /></a>
+  <a href="https://instagram.com/piyush.10_" target = "_blank"><img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" /></a>
+  <a href="https://twitter.com/piyushghanghav1" target = "_blank"><img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" /></a>
+<!--   <a href="https://x.com/piyushghanghav1" target="_blank">
+    <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="X Badge">
+</a>
+ -->
 </p>
 
