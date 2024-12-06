@@ -4,6 +4,12 @@
 <p align="center">
   <a href="https://github.com/piyush-ghanghav" target="_blank"><img src="https://img.shields.io/github/followers/piyush-ghanghav?label=Follow&style=social" alt="GitHub Badge"></a>
   <a href="https://linkedin.com/in/piyush-ghanghav" target="_blank"><img src="https://img.shields.io/badge/-Piyush%20Ghanghav-blue?style=flat&logo=Linkedin&logoColor=white" alt="LinkedIn Badge"></a>
+  <br>
+  <br>
+  <a href="https://leetcode.com/piyushghanghav" target="_blank"><img src="https://img.shields.io/badge/LeetCode-white?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="LeetCode Badge"></a>
+  <a href="https://www.hackerrank.com/piyushghanghav" target="_blank"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank Badge"></a>
+  <a href="https://www.codechef.com/users/piyushghanghav" target="_blank"><img src="https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white" alt="CodeChef Badge"></a>
+
 </p>
 
 <p align="center">
@@ -88,9 +94,3 @@
   <a href="https://twitter.com/piyushghanghav1"><img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" /></a>
 </p>
 
-<p align="left">
-  <a href="https://www.leetcode.com/piyushghanghav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="piyushghanghav" height="30" width="40" style="bgcolor:white" /></a>
-  <a href="https://www.codechef.com/users/piyushghanghav" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="sgi_340" height="30" width="40" /></a>
-  <a href="https://www.hackerrank.com/piyushghanghav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="piyushghanghav" height="30" width="40" /></a>
-
-</p>
