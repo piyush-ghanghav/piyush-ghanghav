@@ -29,9 +29,9 @@
 
 <p align="left">
   <a href="https://github.com/piyush-ghanghav?tab=repositories&q=&type=&language=c%2B%2B&sort="><img src="https://skillicons.dev/icons?i=cpp" alt="C++" /></a>
-  <a href="https://github.com/piyush-ghanghav?tab=repositories"><img src="https://skillicons.dev/icons?i=c" alt="C" /></a>
   <a href="https://github.com/piyush-ghanghav?tab=repositories&q=&type=&language=python&sort="><img src="https://skillicons.dev/icons?i=python" alt="Python" /></a>
-  <a href="https://github.com/piyush-ghanghav/dev.java.SpringBoot"><img src="https://skillicons.dev/icons?i=java" alt="Java" /></a>
+  <a href="https://github.com/piyush-ghanghav?tab=repositories&q=&type=&language=java&sort="><img src="https://skillicons.dev/icons?i=java" alt="Java" /></a>
+  <a href="https://github.com/piyush-ghanghav?tab=repositories"><img src="https://skillicons.dev/icons?i=c" alt="C" /></a>
 </p>
 <p align="left">
   <a href="https://github.com/piyush-ghanghav?tab=repositories"><img src="https://skillicons.dev/icons?i=html" alt="HTML" /></a>
