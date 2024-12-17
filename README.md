@@ -41,7 +41,7 @@
   <a href="https://github.com/piyush-ghanghav/FullStack-MERN-Blog"><img src="https://skillicons.dev/icons?i=react" alt="React" /></a>
   <a href="https://github.com/piyush-ghanghav?tab=repositories"><img src="https://skillicons.dev/icons?i=nextjs" alt="NextJs" /></a>
   <a href="https://github.com/piyush-ghanghav?tab=repositories"><img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" /></a>
-  <a href="https://github.com/piyush-ghanghav?tab=repositories"><img src="https://skillicons.dev/icons?i=npm" alt="npm" /></a>
+<!--   <a href="https://github.com/piyush-ghanghav?tab=repositories"><img src="https://skillicons.dev/icons?i=npm" alt="npm" /></a> -->
   <a href="https://github.com/piyush-ghanghav/DBMS-Assignment"><img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" /></a>
   <a href="https://github.com/piyush-ghanghav?tab=repositories"><img src="https://skillicons.dev/icons?i=postgres" alt="Postgres" /></a>
   <a href="https://github.com/piyush-ghanghav/dev.java.SpringBoot"><img src="https://skillicons.dev/icons?i=spring" alt="spring" /></a>
