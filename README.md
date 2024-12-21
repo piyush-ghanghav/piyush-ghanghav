@@ -85,6 +85,12 @@
   This highlights the programming languages I've used most frequently in my repositories.
 </p>
 -->
+---
+
+### 📈 Top Languages:
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=piyush-ghanghav&layout=compact&theme=radical)
+
+---
 
 
 ## 🔗 Connect with Me
