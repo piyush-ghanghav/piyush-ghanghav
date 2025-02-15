@@ -16,7 +16,7 @@
   <img src="https://komarev.com/ghpvc/?username=piyush-ghanghav&style=flat-square&color=blue" alt="Profile Views"/>
 </p>
 
-## 🌟 About Me
+## 🌟
 - 👨‍💻 All of my projects are available at [My GitHub Repositories](https://github.com/piyush-ghanghav?tab=repositories)
 - 📫 Drop me a mail:  
   <a href="mailto:piyushghanghav@gmail.com" target="_blank">
