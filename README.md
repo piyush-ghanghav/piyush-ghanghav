@@ -43,6 +43,7 @@
   <a href="https://github.com/piyush-ghanghav/FullStack-MERN-Blog"><img src="https://skillicons.dev/icons?i=react" alt="React" /></a>
   <a href="https://github.com/piyush-ghanghav/event-management-backend"><img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" /></a>
   <a href="https://github.com/piyush-ghanghav/event-management-backend"><img src="https://skillicons.dev/icons?i=express" alt="Expess" /></a>
+<a href="https://github.com/piyush-ghanghav/event-management-backend"><img src="https://skillicons.dev/icons?i=mongodb" alt="Mongodb" /></a>
   <a href="https://github.com/piyush-ghanghav/Interview-Assistant"><img src="https://skillicons.dev/icons?i=nextjs" alt="NextJs" /></a>
 <!--   <a href="https://github.com/piyush-ghanghav?tab=repositories"><img src="https://skillicons.dev/icons?i=npm" alt="npm" /></a> -->
   <a href="https://github.com/piyush-ghanghav/DBMS-Assignment"><img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" /></a>
