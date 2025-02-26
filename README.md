@@ -30,56 +30,16 @@
 - [**Event Management System**](https://github.com/piyush-ghanghav/event-management-backend): Robust backend for event management with Node.js, Express, and MongoDB.
 - [**FullStack MERN Blog**](https://github.com/piyush-ghanghav/FullStack-MERN-Blog): Complete blogging platform built with MongoDB, Express, React, and Node.js.
 - [**View all my repositories**](https://github.com/piyush-ghanghav?tab=repositories)
-
 ## 🛠️ Technical Skills
 
-### Languages
-<p>
-  <a href="https://github.com/piyush-ghanghav?tab=repositories&q=&type=&language=c%2B%2B&sort="><img src="https://skillicons.dev/icons?i=cpp" alt="C++" /></a>
-  <a href="https://github.com/piyush-ghanghav?tab=repositories&q=&type=&language=python&sort="><img src="https://skillicons.dev/icons?i=python" alt="Python" /></a>
-  <a href="https://github.com/piyush-ghanghav?tab=repositories&q=&type=&language=java&sort="><img src="https://skillicons.dev/icons?i=java" alt="Java" /></a>
-  <a href="https://github.com/piyush-ghanghav?tab=repositories"><img src="https://skillicons.dev/icons?i=c" alt="C" /></a>
-  <a href="https://github.com/piyush-ghanghav?tab=repositories&q=&type=&language=javascript&sort="><img src="https://skillicons.dev/icons?i=js" alt="JavaScript" /></a>
-</p>
-
-### Frontend Development
-<p>
-  <a href="https://github.com/piyush-ghanghav?tab=repositories"><img src="https://skillicons.dev/icons?i=html" alt="HTML" /></a>
-  <a href="https://github.com/piyush-ghanghav?tab=repositories&q=&type=&language=css&sort="><img src="https://skillicons.dev/icons?i=css" alt="CSS" /></a>
-  <a href="https://github.com/piyush-ghanghav?tab=repositories"><img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" /></a>
-  <a href="https://github.com/piyush-ghanghav/FullStack-MERN-Blog"><img src="https://skillicons.dev/icons?i=react" alt="React" /></a>
-  <a href="https://github.com/piyush-ghanghav/Interview-Assistant"><img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" /></a>
-</p>
-
-### Backend Development
-<p>
-  <a href="https://github.com/piyush-ghanghav/event-management-backend"><img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" /></a>
-  <a href="https://github.com/piyush-ghanghav/event-management-backend"><img src="https://skillicons.dev/icons?i=express" alt="Express" /></a>
-  <a href="https://github.com/piyush-ghanghav/dev.java.SpringBoot"><img src="https://skillicons.dev/icons?i=spring" alt="Spring" /></a>
-</p>
-
-### Databases
-<p>
-  <a href="https://github.com/piyush-ghanghav/event-management-backend"><img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" /></a>
-  <a href="https://github.com/piyush-ghanghav/DBMS-Assignment"><img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" /></a>
-  <a href="https://github.com/piyush-ghanghav?tab=repositories"><img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" /></a>
-</p>
-
-### DevOps & Tools
-<p>
-  <a href="https://github.com/piyush-ghanghav?tab=repositories"><img src="https://skillicons.dev/icons?i=git" alt="Git" /></a>
-  <a href="https://github.com/piyush-ghanghav?tab=repositories"><img src="https://skillicons.dev/icons?i=docker" alt="Docker" /></a>
-  <a href="https://github.com/piyush-ghanghav?tab=repositories"><img src="https://skillicons.dev/icons?i=linux" alt="Linux" /></a>
-  <a href="https://github.com/piyush-ghanghav?tab=repositories"><img src="https://skillicons.dev/icons?i=ubuntu" alt="Ubuntu" /></a>
-</p>
-
-### Development Environments
-<p>
-  <a href="https://github.com/piyush-ghanghav?tab=repositories"><img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" /></a>
-  <a href="https://github.com/piyush-ghanghav?tab=repositories"><img src="https://skillicons.dev/icons?i=idea" alt="IntelliJ IDEA" /></a>
-  <a href="https://github.com/piyush-ghanghav?tab=repositories"><img src="https://skillicons.dev/icons?i=eclipse" alt="Eclipse" /></a>
-  <a href="https://github.com/piyush-ghanghav?tab=repositories"><img src="https://skillicons.dev/icons?i=postman" alt="Postman" /></a>
-</p>
+| **Category**         | **Technologies** |
+|----------------------|-----------------|
+| **Languages**       | <a href="https://github.com/piyush-ghanghav?tab=repositories&q=&type=&language=c%2B%2B&sort="><img src="https://skillicons.dev/icons?i=cpp" alt="C++" /></a> <a href="https://github.com/piyush-ghanghav?tab=repositories&q=&type=&language=python&sort="><img src="https://skillicons.dev/icons?i=python" alt="Python" /></a> <a href="https://github.com/piyush-ghanghav?tab=repositories&q=&type=&language=java&sort="><img src="https://skillicons.dev/icons?i=java" alt="Java" /></a> <a href="https://github.com/piyush-ghanghav?tab=repositories"><img src="https://skillicons.dev/icons?i=c" alt="C" /></a> <a href="https://github.com/piyush-ghanghav?tab=repositories&q=&type=&language=javascript&sort="><img src="https://skillicons.dev/icons?i=js" alt="JavaScript" /></a> |
+| **Frontend**        | <a href="https://github.com/piyush-ghanghav?tab=repositories"><img src="https://skillicons.dev/icons?i=html" alt="HTML" /></a> <a href="https://github.com/piyush-ghanghav?tab=repositories&q=&type=&language=css&sort="><img src="https://skillicons.dev/icons?i=css" alt="CSS" /></a> <a href="https://github.com/piyush-ghanghav?tab=repositories"><img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" /></a> <a href="https://github.com/piyush-ghanghav/FullStack-MERN-Blog"><img src="https://skillicons.dev/icons?i=react" alt="React" /></a> <a href="https://github.com/piyush-ghanghav/Interview-Assistant"><img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" /></a> |
+| **Backend**         | <a href="https://github.com/piyush-ghanghav/event-management-backend"><img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" /></a> <a href="https://github.com/piyush-ghanghav/event-management-backend"><img src="https://skillicons.dev/icons?i=express" alt="Express" /></a> <a href="https://github.com/piyush-ghanghav/dev.java.SpringBoot"><img src="https://skillicons.dev/icons?i=spring" alt="Spring Boot" /></a> |
+| **Databases**       | <a href="https://github.com/piyush-ghanghav/event-management-backend"><img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" /></a> <a href="https://github.com/piyush-ghanghav/DBMS-Assignment"><img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" /></a> <a href="https://github.com/piyush-ghanghav?tab=repositories"><img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" /></a> |
+| **DevOps & Tools**  | <a href="https://github.com/piyush-ghanghav?tab=repositories"><img src="https://skillicons.dev/icons?i=git" alt="Git" /></a> <a href="https://github.com/piyush-ghanghav?tab=repositories"><img src="https://skillicons.dev/icons?i=docker" alt="Docker" /></a> <a href="https://github.com/piyush-ghanghav?tab=repositories"><img src="https://skillicons.dev/icons?i=linux" alt="Linux" /></a> <a href="https://github.com/piyush-ghanghav?tab=repositories"><img src="https://skillicons.dev/icons?i=ubuntu" alt="Ubuntu" /></a> |
+| **Environments**    | <a href="https://github.com/piyush-ghanghav?tab=repositories"><img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" /></a> <a href="https://github.com/piyush-ghanghav?tab=repositories"><img src="https://skillicons.dev/icons?i=idea" alt="IntelliJ IDEA" /></a> <a href="https://github.com/piyush-ghanghav?tab=repositories"><img src="https://skillicons.dev/icons?i=eclipse" alt="Eclipse" /></a> <a href="https://github.com/piyush-ghanghav?tab=repositories"><img src="https://skillicons.dev/icons?i=postman" alt="Postman" /></a> |
 
 ## 📊 GitHub Stats
 
@@ -87,11 +47,7 @@
   
   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=piyush-ghanghav&layout=compact&theme=radical)
   
-  <!-- Uncomment these sections if you want to display more GitHub stats
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=piyush-ghanghav&show_icons=true&theme=radical)
-  
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=piyush-ghanghav&theme=radical)
-  -->
+ 
 </div>
 
 ## 🔗 Connect With Me
