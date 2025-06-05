@@ -10,10 +10,11 @@
 </div>
 
 ## 💫 About Me
-- 🔭 I'm currently working on full-stack web applications and expanding my expertise in cloud technologies
-- 🌱 Learning and building with the MERN stack (MongoDB, Express, React, Node.js)
-- 📕 Coursework :web development, data structures, algorithms, or software engineering best practices
-- ⚡ Fun fact: My LeetCode streak started as a weekend challenge and hasn't stopped since!
+
+B.Tech CSE graduate working across different areas of technology.
+
+**Coursework:** Data Structures & Algorithms, Database Management Systems, Operating Systems, Computer Networks, Software Engineering, Machine Learning
+
 ## 🏆 Coding Profiles
 <div align="center">
   <a href="https://leetcode.com/piyushghanghav" target="_blank"><img src="https://img.shields.io/badge/LeetCode-white?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="LeetCode Badge"></a>
